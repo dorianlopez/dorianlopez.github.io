@@ -1,0 +1,94 @@
+/*Hoja de Estilos*/
+
+html {
+	background-color: #EAEAEA;
+	font-family: 'Josefin Sans', sans-serif;;
+	margin: 20px 40px 1px 40px;
+	font-size: 16px;
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+	font-weight: bold;
+}
+
+li {
+	list-style: none;
+}
+
+h3 {
+	text-align: center;	
+}
+
+footer {
+	width: 100%;
+	margin-top: 10px;
+	text-align: center;
+}
+
+.Header {
+	margin: 0 auto;
+	text-align: center;
+	width: 100%;
+}
+
+.Avatar {
+	border: 1px solid #353535;    
+    border-radius: 50%;    
+}
+
+.Title {
+	margin-bottom: 5px;
+}
+
+.Subtitle {
+	margin-top: auto;
+    font-size: larger;
+}
+
+.Hr {
+	margin-bottom: 30px;
+
+	border: 0;
+	border-bottom: 1px dashed #353535;	
+}
+
+.ImagesStudies {
+	text-align: center;
+}
+
+.Image {	
+	margin: 28px;
+	height: 64px;
+	width: 64px;
+	border-radius: 50px;
+}
+
+.Border {
+	border: 1px solid #353535;
+}
+
+.Article {	
+	padding: 20px 15em 10px 15em;
+	margin-top: 35px;
+    margin-bottom: 51px;
+	height: 100%;
+	text-align: justify;
+}
+
+.Footer {
+	margin-top: 15px;
+}
+
+.FooterEnd {
+	font-size: small;
+}
+
+.Cellphone {
+	margin: 5px;
+}
+
+.Back {
+	text-align: center;
+}
