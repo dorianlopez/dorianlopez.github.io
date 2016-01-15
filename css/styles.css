@@ -35,7 +35,9 @@ footer {
 
 .Avatar {
 	border: 1px solid #353535;    
-    border-radius: 50%;    
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;       
 }
 
 .Title {
